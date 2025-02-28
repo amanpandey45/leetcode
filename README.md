@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/amanpandey45/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/amanpandey45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpandey45/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amanpandey45/leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/amanpandey45/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/amanpandey45/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/amanpandey45/leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/amanpandey45/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/amanpandey45/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
