@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amanpandey45/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/amanpandey45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpandey45/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/amanpandey45/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amanpandey45/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/amanpandey45/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amanpandey45/leetcode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
